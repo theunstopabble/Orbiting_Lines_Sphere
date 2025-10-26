@@ -8,9 +8,9 @@ The Sphere-Packing project is a live demo showcasing a dynamic sphere packing vi
 
 ## Table of Contents
 
-1.  [Description](#description)
-2.  [Features](#features)
-3.  [Tech Stack](#tech-stack)
+1.  [Description](##description)
+2.  [Features](##features)
+3.  [Tech Stack](##tech-stack)
 4.  [How to Use](#how-to-use)
 5.  [Project Structure](#project-structure)
 6.  [Contributing](#contributing)
