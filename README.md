@@ -8,43 +8,41 @@ The Sphere-Packing project is a live demo showcasing a dynamic sphere packing vi
 
 ## Table of Contents
 
-1.  [Description](##description)
-2.  [Features](##features)
-3.  [Tech Stack](##tech-stack)
-4.  [How to Use](#how-to-use)
-5.  [Project Structure](#project-structure)
-6.  [Contributing](#contributing)
-7.  [License](#license)
-8.  [Important Links](#important-links)
-9.  [Footer](#footer)
+1. [Description](#description)
+2. [Features ✨](#features-)
+3. [Tech Stack 💻](#tech-stack-)
+4. [How to Use 🚀](#how-to-use-)
+5. [Project Structure 📂](#project-structure-)
+6. [Contributing 🤝](#contributing-)
+7. [License 📝](#license-)
+8. [Important Links 🔗](#important-links-)
+9. [Footer 👣](#footer-)
 
 ## Features ✨
 
-*   **Dynamic Sphere Packing:** Visualizes a background of dynamically moving and interacting spheres.
-*   **Interactive Color Customization:** Allows users to randomize the colors of the spheres and the light source, providing a visually engaging experience.
-*   **Animation Control:** Users can pause and resume the sphere animation with a simple click.
-*   **Web-Based Demo:** Accessible through any modern web browser without requiring local installation.
+* **Dynamic Sphere Packing:** Visualizes a background of dynamically moving and interacting spheres.
+* **Interactive Color Customization:** Allows users to randomize the colors of the spheres and the light source.
+* **Animation Control:** Users can pause and resume the sphere animation with a simple click.
+* **Web-Based Demo:** Accessible through any modern web browser without requiring local installation.
 
 ## Tech Stack 💻
 
-*   **HTML:** Used for structuring the web page.
-*   **CSS:** Used for styling the user interface and visual elements.
-*   **JavaScript:** Used for implementing the interactive sphere packing logic and user controls.
-*   **Three.js:** Used for 3D rendering (via `threejs-components` CDN).
+* **HTML:** Structuring the web page.
+* **CSS:** Styling the user interface and visual elements.
+* **JavaScript:** Implements interactive sphere packing logic and user controls.
+* **Three.js:** For 3D rendering (via CDN).
 
 ## How to Use 🚀
 
-1.  **Open the Demo:** Access the live demo at [https://sphere-packing.netlify.app/](https://sphere-packing.netlify.app/).
-2.  **Interact with the Visualization:**
-    *   Click anywhere on the page (except the "Random colors" button) to pause or resume the sphere animation.
-    *   Click the "Random colors" button to change the colors of the spheres and the light source.
+1. Open the demo at [https://sphere-packing.netlify.app/](https://sphere-packing.netlify.app/).
+2. Click anywhere on the page (except the "Random colors" button) to pause or resume the animation.
+3. Click the "Random colors" button to randomize sphere and light colors.
 
-This project can be used for:
-*   **Educational Purposes:** Demonstrating sphere packing algorithms and 3D rendering techniques.
-*   **Visual Backgrounds:** As a dynamic and visually appealing background for web pages or applications.
-*   **Creative Coding:** As a starting point for experimenting with interactive 3D graphics.
+Use cases include educational demonstrations, dynamic visual backgrounds, and creative 3D coding experiments.
 
 ## Project Structure 📂
+
+
 
 ```
 Sphere-Packing/
